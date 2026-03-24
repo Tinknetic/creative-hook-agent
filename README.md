@@ -2,7 +2,7 @@
 
 > Part of the [Performance Marketing Agents](https://github.com/Tinknetic) project.
 
-An AI agent that mines Reddit for what real people are saying, then stress-tests hooks through 3 iterative rewrites until every dimension scores 10/10. Output is a structured Google Doc — research, working drafts, and final copy — ready to pull straight into production.
+An AI agent that mines Reddit for what real people are saying, then stress-tests hooks through 3 iterative rewrites until every dimension scores 10/10. Output is a structured Google Doc — research, working drafts, and final copy — ready to pull straight into production. 
 
 ---
 
